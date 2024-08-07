@@ -1,0 +1,25 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  .card-header {
+    font-weight: bold;
+  }
+  
+  /* Form Styles */
+  .form-control {
+    margin-bottom: 15px;
+  }
+  
+  /* Footer Styles */
+  .footer {
+    background-color: #f8f9fa;
+    padding: 15px;
+  }
+  
